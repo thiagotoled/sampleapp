@@ -1,5 +1,5 @@
 #!/bin/bash
 set -e 
-echo "starting app v1.0"
+echo "starting app v2.0"
 sleep 600
 
